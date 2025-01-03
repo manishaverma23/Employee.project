@@ -20,4 +20,4 @@ def connect_db():
         print("Error connecting to database",e)
         return None
 
-connect_db()
+# connect_db()
